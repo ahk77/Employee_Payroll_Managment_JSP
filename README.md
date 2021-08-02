@@ -2,7 +2,7 @@
 Its my C2TC  Project
 
 
-#OBJECTIVE 
+# OBJECTIVE 
 
 Allow access to only authorized   person.
 To create/update all employees Information .
@@ -11,7 +11,7 @@ Mark attendance of the employee present on that particular date using unique emp
 Allocation of project to the employee
 
 
-#INTRODUCTION
+# INTRODUCTION
 
 Employee Payroll management  is a function in organizations designed to maximize employee performance in service of their employer’s strategic objectives.
 
